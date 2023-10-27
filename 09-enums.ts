@@ -19,6 +19,6 @@ getStatus(45, StatusType.FAILED)
 
 // as const
 
-let username = "jon" as const // making it readonly
+let username = "jon" as const // making it readonly => Type casting
 
 
